@@ -61,7 +61,7 @@ var lightFlag = true;
         try {
             const result = await axios({
                 method:"GET",
-                url:'http://localhost:3000/api/user/logout'
+                url:'/api/user/logout'
             })
             console.log(result)
             if(result.data.status === 'success') location.reload(true)
