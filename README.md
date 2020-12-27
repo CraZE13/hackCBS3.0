@@ -1,6 +1,4 @@
-### HackWithMAIT
-
-#### UpHealth
+## UpHealth
 See [UpHealth](http://up-health.herokuapp.com)
 
 ##### During these difficult times, health is our primary concern and our prior health data is very important to trace our fitness and for doctors to diagnose us.
